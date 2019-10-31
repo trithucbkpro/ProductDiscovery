@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="tomatoTwo">#DF2020</color>
+    <color name="reddishOrange">#F5471E</color>
+    <color name="white">#ffffff</color>
+    <color name="coolGrey">#8F9498</color>
+    <color name="darkGrey">#262829</color>
+    <color name="paleGrey">#EEF1F3</color>
+    <color name="tomato">#EA341F</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="deepSkyBlue">#1E75F6</color>
+
+</resources>

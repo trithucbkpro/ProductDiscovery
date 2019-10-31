@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Product Discovery</string>
+    <string name="key_search_hint">Input product\'s name/code</string>
+    <string name="product_code_label">Prod Code:</string>
+</resources>
